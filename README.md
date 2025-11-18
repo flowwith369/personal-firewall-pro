@@ -58,7 +58,7 @@ pip3 install -r requirements.txt
 
 ---
 
-## ▶️ Run the Project
+## ▶️ Run the Project - go to backend folder and und the below command
 
 Start the server:
 
